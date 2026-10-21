@@ -1,0 +1,15 @@
+# 客户工作资料放在仓库外；以下忽略项只是最后一道保护。
+workspace/
+workspaces/
+client-data/
+private/
+outputs/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db

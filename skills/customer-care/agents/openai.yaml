@@ -1,0 +1,4 @@
+interface:
+  display_name: "客户经营"
+  short_description: "处理客服与订单跟进，准备售后回复、会员分群和复购方案，维护客户体验。"
+  default_prompt: "使用 $customer-care，依据客户消息、订单与政策准备回复和后续跟进方案。"

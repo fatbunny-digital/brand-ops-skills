@@ -1,0 +1,3 @@
+sku,name,material,size,regular_price_cny,product_cost_cny,sellable_stock,inbound_units,lead_time_days,units_sold_last_14_days,sales_window_start,sales_window_end
+TOWEL-01,棉质日常毛巾,100%棉,34x75cm,100,30,60,0,14,70,2026-10-06,2026-10-19
+GIFT-02,双条毛巾礼盒,100%棉,两条34x75cm毛巾及纸盒,180,58,18,0,14,25,2026-10-06,2026-10-19

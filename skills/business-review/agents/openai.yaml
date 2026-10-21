@@ -1,0 +1,4 @@
+interface:
+  display_name: "经营复盘"
+  short_description: "核对销售、贡献利润、推广与库存表现，识别经营问题并安排下一阶段行动。"
+  default_prompt: "使用 $business-review，复盘现有经营报表，给出有依据的判断和优先行动。"

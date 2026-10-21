@@ -1,0 +1,3 @@
+period_start,period_end,channel,currency,spend,platform_attributed_revenue,attribution_definition
+2026-10-05,2026-10-11,虚构付费渠道,CNY,1200,3600,合成平台7日点击归因且不含浏览归因
+2026-10-12,2026-10-18,虚构付费渠道,CNY,1800,4500,合成平台7日点击归因且不含浏览归因

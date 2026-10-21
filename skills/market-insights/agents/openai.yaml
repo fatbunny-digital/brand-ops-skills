@@ -1,0 +1,4 @@
+interface:
+  display_name: "市场洞察"
+  short_description: "研究客户需求与竞争环境，梳理品牌定位和可验证的商品机会，支持运营决策。"
+  default_prompt: "使用 $market-insights，依据品牌资料研究客户购买动机、竞争环境与下一步机会。"

@@ -1,0 +1,3 @@
+period_start,period_end,timezone,currency,paid_orders,new_customers,discounted_product_revenue,shipping_revenue,tax_collected,refund_amount,product_cost,payment_fees,packing_cost,fulfillment_shipping,ad_spend
+2026-10-05,2026-10-11,Asia/Shanghai,CNY,40,32,4800,0,0,0,1500,144,80,400,1200
+2026-10-12,2026-10-18,Asia/Shanghai,CNY,50,38,5400,0,0,0,1740,162,100,500,1800

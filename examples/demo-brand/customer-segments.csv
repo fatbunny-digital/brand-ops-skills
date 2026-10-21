@@ -1,0 +1,6 @@
+customer_alias,marketing_status,open_issue,last_marketing_days_ago,product_owned
+C001,opted_in,none,40,TOWEL-01
+C002,opted_out,none,60,GIFT-02
+C003,unknown,none,45,TOWEL-01
+C004,opted_in,delivery_unresolved,50,GIFT-02
+C005,opted_in,none,1,TOWEL-01

@@ -1,0 +1,4 @@
+interface:
+  display_name: "商品企划"
+  short_description: "完善商品表达与组合，测算定价促销，结合库存和交期形成可执行的活动方案。"
+  default_prompt: "使用 $product-planning，结合商品、成本与库存资料准备可执行的商品和活动方案。"

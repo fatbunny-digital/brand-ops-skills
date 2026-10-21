@@ -1,0 +1,4 @@
+interface:
+  display_name: "内容推广"
+  short_description: "制作社媒与博客内容、图片视频简报和广告方案，结合现有数据安排推广实验。"
+  default_prompt: "使用 $content-marketing，依据品牌、商品和活动资料制作内容与推广计划。"
